@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Nicolás, a full-time full-stack  developer 👨‍💻 working remotely since 2023 🚀</div>  
+### <div align="center">I'm Nicolás, a full-time full-stack  developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on [Henry Ecommerce](https://github.com/LMarinBorges/henry-pf)  
