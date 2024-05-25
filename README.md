@@ -6,15 +6,6 @@
 ### <div align="center">I'm Nicolás, a full-time full-stack  developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [Henry Ecommerce](https://github.com/LMarinBorges/henry-pf)  
-  
-
-- 🌱 I’m currently learning Typescript.  
-  
-
-- ❓ Ask me about anything related to React.js and Express.js.  
-  
-
 <br/>  
 
 
